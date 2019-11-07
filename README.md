@@ -1,2 +1,2 @@
 # HonsProject2019
-Modelling Agent Personalities and Wealth Disparity in Predynastic Upper Egypt
+Modelling effects of Agent Personalities on Wealth Disparity in Predynastic Upper Egypt
